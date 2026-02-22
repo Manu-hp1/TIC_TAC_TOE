@@ -99,9 +99,9 @@ gcc *.c -o tic_tac_toe
 
 |TIC|TAC|TOE|
 |---|---|---|
-|1|2|3|
-|4|X|6|
-|7|8|9|
+| 1 | 2 | 3 |
+| 4 | X | 6 |
+| 7 | 8 | 9 |
 ---
 
 ### After Player O Chooses Position 2
