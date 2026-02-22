@@ -86,7 +86,7 @@ gcc *.c -o tic_tac_toe
 
 ## 🧪 Sample Output
 
-| TIC TAC TOE GAME  |
+
 |---------|---------|---------|
 |    1    |    2    |    3    |
 |    4    |    5    |    6    |
