@@ -82,6 +82,25 @@ gcc *.c -o tic_tac_toe
 ```bash
 ./tic_tac_toe
 ```
+---
+
+## 🧪 Sample Output
+
+| ===== TIC TAC TOE GAME ==== |
+|---------|---------|---------|
+|    1    |    2    |    3    |
+|    4    |    5    |    6    |
+|    7    |    8    |    9    |
+
+Player X, enter position (1-9): 5
+
+| ===== TIC TAC TOE GAME ==== |
+|---------|---------|---------|
+|    1    |    2    |    3    |
+|    4    |    X    |    6    |
+|    7    |    8    |    9    |
+
+---
 
 ---
 
