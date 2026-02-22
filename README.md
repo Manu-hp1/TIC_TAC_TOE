@@ -88,8 +88,6 @@ gcc *.c -o tic_tac_toe
 
 ### Initial Board
 
-
-|---|---|---|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
