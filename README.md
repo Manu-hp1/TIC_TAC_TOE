@@ -93,62 +93,25 @@ gcc *.c -o tic_tac_toe
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
-
 ---
 
-### After Player X Chooses Position 5  | After Player O Chooses Position 2
+### After Player X Chooses Position 5
 
-|TIC|TAC|TOE|                          |           |TIC|TAC|TOE| 
-|---|---|---|                          |           |---|---|---|
-| 1 | 2 | 3 |                          |           | 1 | O | 3 |
-| 4 | X | 6 |                          |           | 4 | X | 6 |
-| 7 | 8 | 9 |                          |           | 7 | 8 | 9 |
-
+|TIC|TAC|TOE|
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | X | 6 |
+| 7 | 8 | 9 |
 ---
 
-## 🖥️ Console Version (Terminal Style)
+### After Player O Chooses Position 2
 
-```
-===== TIC TAC TOE GAME =====
-
- 1 | 2 | 3
------------
- 4 | 5 | 6
------------
- 7 | 8 | 9
-
-Player X, enter position (1-9): 5
-
- 1 | 2 | 3
------------
- 4 | X | 6
------------
- 7 | 8 | 9
-```
-
+|TIC|TAC|TOE|
+|---|---|---|
+| 1 | O | 3 |
+| 4 | X | 6 |
+| 7 | 8 | 9 |
 ---
-
-
-
-## 🧪 Sample Output
-
-```
-===== TIC TAC TOE GAME =====
-
- 1 | 2 | 3
------------
- 4 | 5 | 6
------------
- 7 | 8 | 9
-
-Player X, enter position (1-9): 5
-
- 1 | 2 | 3
------------
- 4 | X | 6
------------
- 7 | 8 | 9
-```
 
 ---
 
