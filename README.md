@@ -88,19 +88,21 @@ gcc *.c -o tic_tac_toe
 
 ### Initial Board
 
+|TIC|TAC|TOE|
+|---|---|---|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
 
 ---
 
-### After Player X Chooses Position 5
+### After Player X Chooses Position 5  | After Player O Chooses Position 2
 
-
-|---|---|---|
-| 1 | 2 | 3 |
-| 4 | X | 6 |
-| 7 | 8 | 9 |
+|TIC|TAC|TOE|                          |           |TIC|TAC|TOE| 
+|---|---|---|                          |           |---|---|---|
+| 1 | 2 | 3 |                          |           | 1 | O | 3 |
+| 4 | X | 6 |                          |           | 4 | X | 6 |
+| 7 | 8 | 9 |                          |           | 7 | 8 | 9 |
 
 ---
 
