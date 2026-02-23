@@ -38,7 +38,7 @@ This project focuses on implementing clean logic, modular design, and proper inp
 
 ## 🛠️ Technologies & Concepts Used
 
-- **C Programming**
+- **C++ Programming**
 - **Arrays (2D Array for Board)**
 - **Functions**
 - **Loops and Conditional Statements**
